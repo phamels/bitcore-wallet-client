@@ -20,7 +20,7 @@ var Bitcore = require('bitcore-lib');
 var Bitcore_ = {
   btc: Bitcore,
   bch: require('bitcore-lib-cash'),
-  nix: require('nix-bitore-lib'),
+  nix: require('nix-bitcore-lib'),
 };
 
 
